@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Yousef Qaisi 👋
 
-<!--
-**YousefQaisi4/YousefQaisi4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Student
+💻 Software Developer in Progress
+🐍 Python • ☕ Java • 🐘 PHP
+🖥️ Interested in Servers, Networking & System Administration
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 Studying Artificial Intelligence
+* 💻 Learning Software Development
+* 🌐 Exploring Networking and Server Administration
+* 📸 Passionate about Photography & Content Creation
+* 🔥 Always learning new technologies
+
+---
+
+## 🛠️ Technologies & Tools
+
+* Python
+* Java
+* PHP
+* Git & GitHub
+* Linux
+* Networking
+* Server Management
+
+---
+
+## 📈 Current Goals
+
+* Build more programming projects
+* Improve software development skills
+* Learn advanced backend development
+* Expand knowledge in servers and networking
+
+---
+
+## 📫 Connect With Me
+
+Feel free to explore my repositories and follow my journey!
