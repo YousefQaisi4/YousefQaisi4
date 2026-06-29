@@ -18,7 +18,7 @@ I enjoy building software, exploring machine learning concepts, working with Lin
 * 🌐 Exploring Software Architecture and Backend Development
 * 📸 Photography & Content Creation Enthusiast
 * 🔥 Always learning new technologies and building practical solutions
-* 🔧 Strong interest in PC Hardware, System Troubleshooting, Performance Optimization, and Technical Support
+* 🔧 Experienced with PC Hardware, Troubleshooting, Upgrades, Performance Optimization and System Maintenance
 
 ---
 
