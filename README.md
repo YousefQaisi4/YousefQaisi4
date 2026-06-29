@@ -14,10 +14,11 @@ I enjoy building software, exploring machine learning concepts, working with Lin
 * 💻 Software Developer in Progress
 * 🤖 Interested in Artificial Intelligence & Machine Learning
 * 📊 Passionate about Data Analysis and Data Mining
-* 🖥️ Interested in Linux, Servers, Networking & System Administration
+* 🖥️ Interested in Linux, Servers, Networking, System Administration & PC Hardware
 * 🌐 Exploring Software Architecture and Backend Development
 * 📸 Photography & Content Creation Enthusiast
 * 🔥 Always learning new technologies and building practical solutions
+* 🔧 Strong interest in PC Hardware, System Troubleshooting, Performance Optimization, and Technical Support
 
 ---
 
